@@ -1,6 +1,6 @@
 .PHONY: build clean
 
-CFLAGS = -Wall -Wextra -ansi -pedantic
+CFLAGS = -Wall -Wextra -std=c11 -pedantic -O0
 
 build: dimcache
 

@@ -4,4 +4,4 @@
 /* Returns the number of bits in a char. */
 int bits_in_char();
 
-#endif  /* UTILS_H__
+#endif  /* UTILS_H__ */
